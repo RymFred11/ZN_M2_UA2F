@@ -9,7 +9,7 @@
 # File name: diy-part2.sh
 # Description: OpenWrt DIY script part 2 (After Update feeds)
 #
-git clone https://github.com/Zxilly/UA2F.git package/UA2F
+git clone https://github.com/RymFred11/UA2F.git package/UA2F
 git clone https://github.com/CHN-beta/rkp-ipid.git package/rkp-ipid
 git clone https://github.com/RymFred11/luci-app-ua2f.git package/luci-app-ua2f
 git clone https://github.com/RymFred11/luci-app-mac.git package/luci-app-mac
